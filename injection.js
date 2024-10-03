@@ -91,14 +91,6 @@
     }
 
 function GetUserData() {
-
-    did = window.prompt("Enter DocumentID","");
-    if (did == null || did == "") {
-        alert("Error");
-        return
-    }
-    UserData.DocumentID = did;
-    
     UserData.AuthToken = localStorage.getItem("abcJwtToken");
 }
 
