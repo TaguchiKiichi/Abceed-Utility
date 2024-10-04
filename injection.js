@@ -92,6 +92,8 @@
 
 function GetUserData() {
     UserData.AuthToken = localStorage.getItem("abcJwtToken");
+
+    ShowCustomPop("Success");
 }
 
 function ToggleAssist() {
