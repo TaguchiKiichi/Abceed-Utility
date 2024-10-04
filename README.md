@@ -1,10 +1,10 @@
 # Abceed-Utility
 ## How to Use
-1. Install [UNLOCK CORS](https://chromewebstore.google.com/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino?hl=ja) extension and [ScriptAutoRunner](https://chromewebstore.google.com/detail/scriptautorunner/gpgjofmpmjjopcogjgdldidobhmjmdbm?hl=ja)
+1. Install [UNLOCK CORS](https://chromewebstore.google.com/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino?hl=ja) and [ScriptAutoRunner](https://chromewebstore.google.com/detail/scriptautorunner/gpgjofmpmjjopcogjgdldidobhmjmdbm?hl=ja)
 2. Open ScriptAutoRunner option page
 3. Create new script block
 4. Paste [this code](/injection.js)
-5. ON this script block
+5. Enable this script block
 6. Open Abceed question page
 7. Click Abceed Utiliy button
 8. Click initialize button
