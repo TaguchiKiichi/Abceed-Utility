@@ -203,7 +203,7 @@ fetch(url, {
 }
 
 //auto clear
-function RunAuto() {
+async function RunAuto() {
     ShowCustomPop("Boot system...");
 
     cfg = {
@@ -213,12 +213,12 @@ function RunAuto() {
         TestID : UserData.TestID,
     };
 
-    AutoClear(cfg);
+    await AutoClear(cfg);
 
     ShowCustomPop("clear!");
 }
 
-function AutoClear(cfg) {
+async function AutoClear(cfg) {
     //get answer
     let AnsData;
     
