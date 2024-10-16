@@ -15,14 +15,14 @@
 
 ## How to use
 ### Initialize
-Initialize button
+Initialize button<br>
 Click when opened
 ### View Answer
 you can see the answer
 ### Answer Assist
 Assist your question
 ### Auto Complete
-complete your task
+complete your task<br>
 If you don't wait a while, you'll get an error
 ## Config Setting
 Open setting menu
