@@ -1,6 +1,6 @@
 # Abceed-Utility
 ## License
-[LICENSE-JA](/LICENSE-JA)
+[LICENSE-JA](/LICENSE-JA)<br>
 [LICENSE-EN](/LICENSE-EN)
 ## installation
 1. Install [UNLOCK CORS](https://chromewebstore.google.com/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino?hl=ja) and [ScriptAutoRunner](https://chromewebstore.google.com/detail/scriptautorunner/gpgjofmpmjjopcogjgdldidobhmjmdbm?hl=ja)
